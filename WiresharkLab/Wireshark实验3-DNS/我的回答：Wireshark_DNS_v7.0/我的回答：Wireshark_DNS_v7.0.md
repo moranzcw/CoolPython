@@ -48,7 +48,7 @@ nslookup www.yahoo.com bitsy.mit.edu
 
 ![image-20200217175331441](image/image-20200217175331441.png)
 
-
+## 2. ipconfig
 
 
 
